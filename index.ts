@@ -49,7 +49,7 @@ async function getAnswers() {
                 message: "Enter second number:",
                 validate(input,answer){
                     if(isNaN(input)){
-                        return "Enter a valid number";
+                        return "Enter a valid number!";
                     }
                     else if(answer.operator=="Division"&& input==0){
                         return "Cannot divide with 0";
