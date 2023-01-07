@@ -1,6 +1,6 @@
 {
-  "name": "atm",
-  "version": "1.0.0",
+  "name": "atm_typescript_services",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
